@@ -1,0 +1,6 @@
+framework module Pods_infoquesttrial {
+  umbrella header "Pods-infoquesttrial-umbrella.h"
+
+  export *
+  module * { export * }
+}
